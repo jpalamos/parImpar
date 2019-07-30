@@ -1,0 +1,7 @@
+D:\UPB\201902\Plataformas de prog empresarial\ParImpar\bin\Debug\ParImpar.exe.config
+D:\UPB\201902\Plataformas de prog empresarial\ParImpar\bin\Debug\ParImpar.exe
+D:\UPB\201902\Plataformas de prog empresarial\ParImpar\bin\Debug\ParImpar.pdb
+D:\UPB\201902\Plataformas de prog empresarial\ParImpar\obj\Debug\ParImpar.csprojAssemblyReference.cache
+D:\UPB\201902\Plataformas de prog empresarial\ParImpar\obj\Debug\ParImpar.csproj.CoreCompileInputs.cache
+D:\UPB\201902\Plataformas de prog empresarial\ParImpar\obj\Debug\ParImpar.exe
+D:\UPB\201902\Plataformas de prog empresarial\ParImpar\obj\Debug\ParImpar.pdb
